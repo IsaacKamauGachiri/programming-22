@@ -13,13 +13,13 @@ hide_in_sidebar: false
 
 #### Taking the programming exam
 
-* You do not need to enrol for the exam.
+* You do not need to enroll for the exam.
 * Taking the programming exam is a mandatory requirement for completing the course.
 
 #### Exam arrangements
 
 * Your solutions to the programming tasks in the exam will be submitted in the Visual Studio Code programming environment, in the same manner as the weekly exercises on the course.
-* The course exam can be taken on August 6th 2022 **between 10:00 (UTC+3) AM and 10:00 PM (UTC+3)**.
+* The course exam can be taken on October 1st 2022 **between 10:00 (UTC+3) AM and 10:00 PM (UTC+3)**.
 * The exam ends at 10:00 PM (UTC+3) at the latest. If you want to be able to spend the maximum time allowed on the exam, you should **start at 6:00 PM (UTC+3) at the latest**.
 * You will have **four hours** to complete the exam. If you have been granted extra time through special arrangements, you will have five hours to complete the exam, and should start at 5:00 PM (UTC+3) at the latest.
 
@@ -43,7 +43,7 @@ hide_in_sidebar: false
 2. Select the `My courses` view in the TMC menu.
 3. Click the `Add new course` button.
 4. Select the organization `Helsingin yliopisto`.
-5. Select the course `Introduction to Programming exam 6.8.2022`.
+5. Select the course `Introduction to Programming exam 1.10.2022`.
 6. Fetch the programming task templates.
 7. Try submitting the programming tasks.
 8. If you are able to submit the tasks, you are ready to take the exam. If not, get in touch with course instructors. Don't panic, we will work it out.
